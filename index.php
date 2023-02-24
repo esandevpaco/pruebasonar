@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+<?PHP
+      echo"dfsdf";
     
+    ?>
 </body>
 </html>
